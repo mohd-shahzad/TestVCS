@@ -1,3 +1,7 @@
 first line1
 modification in branch file
+<<<<<<< HEAD
 Tbranch modification
+=======
+modification in TBranch2.
+>>>>>>> de270868fff230ad08527ac507fe19919c08ceb4
